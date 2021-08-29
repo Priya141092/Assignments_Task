@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="23.599203">
+<testcase classname="Login Action" name="Free CRM test login scenario" time="14.803116">
+<system-out><![CDATA[Given User is on already on login page......................................passed
+When title on login page is free crm........................................passed
+Then User1 enters "priyasaxena1492@gmail.com"...............................passed
+And User enters "Qait@1234".................................................passed
+Then use clicks on login button.............................................passed
+And User is on home page....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Action" name="Free CRM test login scenario 2" time="8.796087">
+<system-out><![CDATA[Given User is on already on login page......................................passed
+When title on login page is free crm........................................passed
+Then User1 enters "tom".....................................................passed
+And User enters "test123"...................................................passed
+Then use clicks on login button.............................................passed
+And User is on home page....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
